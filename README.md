@@ -22,7 +22,7 @@ This Next.js application allows users to search for information using the Wikipe
 
    ```bash
    git clone https://github.com/sam9796/WikiResults.git
-   cd my-app
+   cd WikiResults
    npm install
    npm run dev
    
